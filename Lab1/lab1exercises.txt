@@ -3,5 +3,6 @@
 	c) add_movie will be called If I type “http://127.0.0.1:8000/movies/addmovie” ,the function movie gets called If I type “http://127.0.0.1:8000/movies/5/” , page not found 
 	d)Done :)
 
+3- i)we did this to be able to add comments.
 
 

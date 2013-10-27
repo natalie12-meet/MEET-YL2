@@ -20,8 +20,8 @@ def add_movie(request):
     return HttpResponseRedirect('/movies')
 
 def movie(request, movie_id):
-    movie=Movie.objects.filter(pk=movie_id)
-    context={"movie"movie}
+    movie=Movie.objects.filter(id=movie_id)
+    context={"movie":movie[0]}
     return render(request,"movies/movie.html",context)
 	
 

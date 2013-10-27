@@ -3,7 +3,7 @@
 <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/movies.css">
 {% endblock %}
 {%block content%}
-{{ movie.title }}
+{{movie.title}}
 <br>
 <form action="movies/comment" method="post">
 {% csrf_token %}
