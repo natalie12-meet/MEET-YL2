@@ -1,2 +1,5 @@
-a)i typed manage.py suncdb,then manage.py runserver and the URL was 127.0.0.1:8000
-b) the unl is the browser is  http://127.0.0.1:8000/movies/1/ if we add another movie we'll get http://127.0.0.1:8000/movies/2/ and if we add 100 other movie combined with the two urls that i already have the url would be http://127.0.0.1:8000/movies/102/.
+1-	a)i typed manage.py suncdb,then manage.py runserver and the URL was 127.0.0.1:8000
+	b) the unl is the browser is  http://127.0.0.1:8000/movies/1/ if we add another movie we'll get http://127.0.0.1:8000/movies/2/ and if we add 100 other movie combined with the two urls that i already have the url would be http://127.0.0.1:8000/movies/102/.
+	c) add_movie will be called If I type “http://127.0.0.1:8000/movies/addmovie” ,the function movie gets called If I type “http://127.0.0.1:8000/movies/5/” , page not found 
+	d)Done :)
+
