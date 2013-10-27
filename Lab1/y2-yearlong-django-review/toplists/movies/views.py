@@ -26,4 +26,6 @@ def movie(request, movie_id):
 	
 
 def add_comment(request, movie_id):
+    addcomment=Comment(text=request.POST["addcomment"],movie=Movie.object.filter() 
+    add_comment=addcomment.objects.filter()
     return HttpResponse("adding comment to movie " + movie_id)
