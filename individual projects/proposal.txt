@@ -1,0 +1,5 @@
+an app that takes 2 photos using the camera cropping them and combining with each other.
+camera,touch screen
+i guess 3 : the first one will take the pictures,the second will do the crop work and the third will do the combining.
+
+s/he will capture 2 photos crop them and combine them with each other , s/he will do that by pressing the capture photo button,and then the crop button and combine button 
