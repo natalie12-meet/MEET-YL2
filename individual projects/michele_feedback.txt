@@ -1,0 +1,5 @@
+I like the idea for your app - a way to take multiple pictures and then combine them. I like the clean, easy-to-use design you came up with. It is very easy for me (as someone who has never used your app before) to figure out how to use the app. 
+
+Unfortunately, you have a bug in the app that causes the app to crash when I click on a picture. This has to do with the setup of one of your for loops. I was not quite sure what you were intending to do with the for loop in question, but when you make a for loop, you need to tell it where to start and where to finish (and by how much to increase). If you tell it to start at 200 and end at 0 but increase by 1 each time, your for loop will be infinite and not work. 
+
+I am happy that you tried to make this app work, but parts of it that you wanted to make work did not work properly. If you are not happy with how the app turned out, I am happy to sit with you whenever you want to work out if it is possible to make the app do what you want it to do. You should be proud of yourself for reading through the tutorials and trying to make it work. 
